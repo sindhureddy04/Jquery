@@ -11,7 +11,7 @@ $(document).ready(function(){
     });    
 });    
 </script>    
-</head>    
+</head>
 <body>    
 <button>Toggle</button>    
 <div class="d1" style="border:1px solid black;padding:10px;width:250px">    
